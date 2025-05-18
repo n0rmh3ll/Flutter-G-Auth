@@ -1,6 +1,3 @@
-Absolutely! Here's a **professional and clear README** template tailored for your Flutter Google Authentication app project — perfect for GitHub:
-
-````markdown
 # Flutter Google Authentication App
 
 A Flutter app demonstrating **Google Sign-In with Firebase Authentication** on Android.  
