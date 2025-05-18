@@ -1,0 +1,2 @@
+C:/Users/roota/OneDrive/Desktop/googleauth/android/app/.cxx/RelWithDebInfo/1a3c1s25/x86/CMakeFiles/edit_cache.dir
+C:/Users/roota/OneDrive/Desktop/googleauth/android/app/.cxx/RelWithDebInfo/1a3c1s25/x86/CMakeFiles/rebuild_cache.dir
